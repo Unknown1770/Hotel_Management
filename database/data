@@ -1,0 +1,30 @@
+data  
+
+
+INSERT INTO `rooms` 
+	(`sl`, `roomno`, `type`, `uname`, `checkin`, `checkout`, `status`) 
+	VALUES ('1', '201', '2 Bedroom', '', '', '', 'Pending'), 
+	('2', '202', '2 Bedroom', '', '', '', 'Pending'), 
+	('3', '203', '2 Bedroom', '', '', '', 'Pending'), 
+	('4', '204', '2 Bedroom', '', '', '', 'Pending'), 
+	('5', '205', '2 Bedroom', '', '', '', 'Pending');
+
+
+
+INSERT INTO `rooms` 
+	(`sl`, `roomno`, `type`, `uname`, `checkin`, `checkout`, `status`) 
+	VALUES ('6', '101', '1 Bedroom', '', '', '', 'Pending'), 
+	('7', '102', '1 Bedroom', '', '', '', 'Pending'), 
+	('8', '103', '1 Bedroom', '', '', '', 'Pending'), 
+	('9', '104', '1 Bedroom', '', '', '', 'Pending'), 
+	('10', '105', '1 Bedroom', '', '', '', 'Pending');
+
+
+
+INSERT INTO `halls` 
+	(`sl`, `name`, `username`, `type`, `guest`, `pno`, `edate`, `etime`, `ftype`, `price`, `status`, `hallno`) 
+	VALUES ('1', '', '', 'hall', '', '', '', '', '', '', 'pending', '001'), 
+	('2', '', '', 'hall', '', '', '', '', '', '', 'pending', '002'), 
+	('3', '', '', 'hall', '', '', '', '', '', '', 'pending', '003'), 
+	('4', '', '', 'hall', '', '', '', '', '', '', 'pending', '004'), 
+	('5', '', '', 'hall', '', '', '', '', '', '', 'pending', '005');
