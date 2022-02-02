@@ -4,7 +4,7 @@ function Connect()
 {
 	$dbhost = "localhost";
 	$dbuser = "root";
-	$dbpass = "enormousviju1770";
+	$dbpass = "yourpassword";
 	$dbname = "resorts";
 
 	//Create Connection
