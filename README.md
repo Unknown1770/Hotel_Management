@@ -7,7 +7,8 @@ This is a Web based Application developed using PHP as a Host Language. Database
 > - Landing Page
 <img src="res1.jpg" width="800" height="450" alt="landing_page"/>
 
-> - About Website/ Problem Statement
-<img src="res1.jpg" width="800" height="450" alt="landing_page"/>
+> - Website Images
+<img src="res4.jpg" width="800" height="450" alt="landing_page"/>
+<img src="res5.jpg" width="800" height="450" alt="landing_page"/>
 
 
