@@ -5,9 +5,9 @@ This is a Web based Application developed using PHP as a Host Language. Database
 
 ### Screenshots:
 > - Landing Page
-<img src="/Screenshots/index.png" width="800" height="450" alt="landing_page"/>
+<img src="res1.jpg" width="800" height="450" alt="landing_page"/>
 
 > - About Website/ Problem Statement
-<img src="/Screenshots/about.png" width="800" height="450" alt="landing_page"/>
+<img src="res1.jpg" width="800" height="450" alt="landing_page"/>
 
 
